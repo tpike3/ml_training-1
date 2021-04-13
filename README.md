@@ -4,7 +4,7 @@
 	<img src="https://github.com/dsbc2020/ml_training/blob/main/media/glasses.jpeg">
 </p>
 
-A **carefully-curated repository** of Artificial Intelligence (AI), Machine Learning (ML), and Data Science (DS) literature with practical implementations using Jupyter Notebook "skill-builders".
+A **CAREFULLY-CURATED REPOSITORY** of Artificial Intelligence (AI), Machine Learning (ML), and Data Science (DS) literature with practical implementations using Jupyter Notebook "skill-builders".
 
 
 -----------------------------------------------------------------------------------
